@@ -1,0 +1,1 @@
+let paragrafos = document.getElementById('texto');
